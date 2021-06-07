@@ -8,7 +8,7 @@ window.onload = function() {
   inputImage.addEventListener('change', displayImage);
 
   function generateText() {
-    inputParagraph.innerText = inputText.value;
+    inputParagraph.innerHTML = inputText.value;
   }
 
   function displayImage(event) {
