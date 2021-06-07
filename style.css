@@ -13,7 +13,9 @@ body {
   color: white;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   z-index: 1;
-  margin-top: -32px;
+  margin-top: -45px;
+  text-shadow: 5px 5px 5px black;
+  font-size: 30px;
 }
 
 #meme-image {
